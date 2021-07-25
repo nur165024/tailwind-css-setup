@@ -2,6 +2,7 @@
   <img width="150" src="./images/tailwind-css-logo.png" alt="tailwind css" />
   <h1 align="center">tailwind css setup in your window pc</h1>
 </p>
+
 ## first command line
 
 ```sh
